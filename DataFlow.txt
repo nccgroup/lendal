@@ -1,0 +1,6 @@
+
+                                   +------------<----------+          
+                                   |                       |
+Main() -> FindLensWrapper() -> FindLens() -> CheckSize() --+--> CheckLens() --+--> PrintOutFinding()
+                                                                   |                      |
+                                                                   +---------<------------+

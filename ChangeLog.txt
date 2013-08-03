@@ -1,0 +1,9 @@
+
+- v0.2
+	- we now walk the file byte by byte no matter what length size
+	  this stops us missing stuff
+	- fixed a bug in the NULL placement detection and printing routines
+	- added -A which does BYTE, WORD and DWORD scans in one go
+	
+- v0.1
+	- initial version
