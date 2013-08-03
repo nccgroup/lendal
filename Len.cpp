@@ -22,7 +22,7 @@ Released under AGPL see LICENSE for more information
 void banner(){
 	fprintf(stdout,"-------------------------------------------------------------------------\n");
 	fprintf(stdout,"Len - 'Lendal' the length finder - v0.2\n");
-	fprintf(stdout,"(c)2006 Ollie Whitehouse\n");
+	fprintf(stdout,"Released as open source by NCC Group Plc - http://www.nccgroup.com/\n");
 	fprintf(stdout,"-------------------------------------------------------------------------\n\n");
 }
 
@@ -32,7 +32,7 @@ void banner(){
 // -------------------------------------------------------------------------
 void bannerstop(){
 	fprintf(stdout,"\n-------------------------------------------------------------------------\n");
-	fprintf(stdout,"www dot blackops dot cn\n");
+	fprintf(stdout,"NCC Group\n");
 	fprintf(stdout,"-------------------------------------------------------------------------\n\n");
 }
 
